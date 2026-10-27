@@ -1,0 +1,5 @@
+수업용으로 생성한 모의 픽셀 데이터입니다. 자유롭게 수정하여 실습할 수 있습니다.
+sample_rgb.png: 320x192 RGB, 가로 R/세로 G 변화와 색 블록
+sample_rgb_q35.jpg: 동일 원본을 Pillow JPEG quality=35로 저장
+sample_rgba.png: 가로 방향 alpha 0~255
+sample_gray.png: 8x8 L 모드 밝기 격자
